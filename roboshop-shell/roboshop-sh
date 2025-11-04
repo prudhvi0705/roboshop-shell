@@ -3,7 +3,7 @@
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-00fa736b2eba8959d"
 ZONE_ID="Z05445223EGIS9AWDWK63"
-DOMAIN_NAME="daws86s.fun"
+DOMAIN_NAME="prudhvii.fun"
 
 for instance in $@
 
